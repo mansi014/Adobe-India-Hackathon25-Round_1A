@@ -1,0 +1,85 @@
+{
+  "title": "Understanding Artificial Intelligence",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Introduction to AI",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Definition and Scope",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "History of AI",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Core Areas of AI",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Machine Learning",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Supervised Learning",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Unsupervised Learning",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Natural Language Processing",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Applications of AI",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Healthcare",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "Finance",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "Transportation",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Ethical Considerations",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Bias and Fairness",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Privacy Concerns",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "Conclusion",
+      "page": 16
+    }
+  ]
+}
